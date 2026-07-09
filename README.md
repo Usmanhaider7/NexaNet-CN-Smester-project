@@ -36,4 +36,4 @@ The network consists of:
 4. Open the Command Prompt on any PC (e.g., `192.168.10.11`) and ping the Web Server (`192.168.50.3`) to verify inter-VLAN routing.
 
 ## Author
-[Your Name] - Computer Networks Semester Project
+Usman Haider(F23-BSCS-0074) - Computer Networks Semester Project
